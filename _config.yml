@@ -1,0 +1,28 @@
+name: consciousnutrishift.com
+favicon: null
+layout_spectrum: 0.5095428167842329
+typography_spectrum: 0.028906658524647355
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2344604218378663
+  lightness: 0.13655551639385521
+  saturation: 0.26003866270184517
+  rhythmicContrast: 0.4753420930355787
+purpose: []
