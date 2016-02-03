@@ -6,10 +6,10 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 1
-  lightness: 0.514358
-  rhythmicContrast: 0.493243
-  saturation: 0.53125
+  brandStrength: 0.899493
+  lightness: 0.758445
+  rhythmicContrast: 0.510979
+  saturation: 0.754223
 cta: {}
 layout_spectrum: 1
 name: consciousnutrishift.com
