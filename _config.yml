@@ -1,18 +1,28 @@
-analytics: {}
+name: consciousnutrishift.com
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.893581
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#fdfdfd'
+    - '#3f7858'
+    - '#a6fa9e'
+    - '#5c9eda'
+    - '#8bd087'
   brandStrength: 1
   lightness: 0.754223
-  rhythmicContrast: 0.510978
   saturation: 0.754223
-cta: {}
-layout_spectrum: 1
-name: consciousnutrishift.com
-opengraph: {}
+  rhythmicContrast: 0.510978
 purpose: []
-typography_spectrum: 0.893581
